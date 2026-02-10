@@ -1,0 +1,32 @@
+name: UHC-API
+main: fr.doron.uhc.plugin.UHCAPI
+author: Doron
+version: 1.0
+commands:
+  host:
+    description: commande pour les host
+  hostplay:
+    description: es que l'host joue
+  players:
+    description: Liste les joueurs dans la partie
+  sethost:
+    description: met host
+  mumble:
+    description: donne le mb
+  testuhc:
+    description: tkt
+  currentmodule:
+    description: Affiche le module UHC actuellement sélectionné
+    usage: /<command>
+  startuhc:
+    description: start l'uhc
+  timers:
+    description: affiche les timers
+  uhcstop:
+    description: stop l'uhc
+  hsay:
+    description: annonce de l'host
+  uhctp:
+    description: ce tp dans le monde uhc
+  player:
+    description: ajoute un joueur a la partie

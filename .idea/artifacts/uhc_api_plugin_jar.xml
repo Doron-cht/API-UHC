@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="uhc-api-plugin:jar">
+    <output-path>$PROJECT_DIR$/../Serveur/plugins</output-path>
+    <root id="archive" name="uhc-api-plugin.jar">
+      <element id="module-output" name="uhc-api-plugin" />
+      <element id="module-output" name="uhc-api-core" />
+    </root>
+  </artifact>
+</component>

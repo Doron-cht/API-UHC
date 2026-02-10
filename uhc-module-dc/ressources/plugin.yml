@@ -1,0 +1,7 @@
+name: DCComicsUHC
+main: fr.doron.dcuhc.DCComicsUHC
+version: 1.0
+depend: [UHC-API]
+commands:
+  dc:
+    description: Commandes des rôles
