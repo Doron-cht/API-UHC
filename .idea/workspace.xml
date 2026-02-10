@@ -10,7 +10,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a66834d5-7326-42a9-854d-165ca1bd1530" name="Changes" comment="" />
+    <list default="true" id="a66834d5-7326-42a9-854d-165ca1bd1530" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/ressources/DescriptionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/ressources/EffectType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Camp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/RoleDescriptionBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-api-core/src/fr/doron/uhc/api/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-core/src/fr/doron/uhc/api/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/game/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/game/GameManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/gui/RolesGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/gui/RolesGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/tools/ChatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-plugin/src/fr/doron/uhc/plugin/tools/ChatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/BatMan/BatManListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/BatMan/BatManListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/BatMan/BatmanRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/BatMan/BatmanRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/BatMan/PowerBatarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/BatMan/PowerBatarang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/DCComicsUHC.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/DCComicsUHC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/FlashGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/FlashGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/FlashListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/FlashListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/FlashRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/FlashRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/PowerAerokinesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/PowerAerokinesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/PowerDimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/PowerDimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/Flash/PowerTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Flash/PowerTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/DCRoles.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/DCRoles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/JokerRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Pouvoir/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-core/src/fr/doron/uhc/api/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Pouvoir/PowerBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-api-core/src/fr/doron/uhc/api/PowerBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/RoleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Superman/SupermanRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/uhc-module-dc/src/fr/doron/dcuhc/roles/Superman/SupermanRole.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,11 +47,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Doron-cht&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Doron-cht/API-UHC.git&quot;,
+    &quot;accountId&quot;: &quot;740ecff6-ec6b-4bf1-b957-f3b7e2654ca2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -33,23 +79,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chaou/OneDrive/Bureau/Dev/java/uhc-parent",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15527344",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
-    "settings.editor.splitter.proportion": "0.26605505",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/doron/Desktop/perso/code/Java/minecraft/API-UHC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15527344&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26605505&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="fr.doron.uhc.plugin.gui" />
@@ -69,11 +122,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a66834d5-7326-42a9-854d-165ca1bd1530" name="Changes" comment="" />
@@ -92,6 +146,10 @@
       <workItem from="1770219621171" duration="4027000" />
       <workItem from="1770312962081" duration="125000" />
       <workItem from="1770744175554" duration="463000" />
+      <workItem from="1770751940158" duration="2270000" />
+      <workItem from="1770924352311" duration="1283000" />
+      <workItem from="1770925643070" duration="14000" />
+      <workItem from="1770985121202" duration="5606000" />
     </task>
     <servers />
   </component>

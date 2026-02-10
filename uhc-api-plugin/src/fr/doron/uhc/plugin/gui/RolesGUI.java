@@ -56,7 +56,6 @@ public class RolesGUI implements GUIBuilder, Listener {
 
             meta.setDisplayName("§a" + r.getName());
             meta.setLore(Arrays.asList(
-                    "§7" + r.getDescription(),
                     "§eInstances actives : §f" + count,
                     "§eClic gauche → ajouter",
                     "§eClic droit → retirer"
@@ -68,7 +67,7 @@ public class RolesGUI implements GUIBuilder, Listener {
             inv.setItem(i, item);
         }
 
-        ItemStack composition = new ItemStack(Material.BOOK);
+        ItemStack composition = new ItemStack(Material.BLAZE_POWDER);
         ItemMeta metaComp = composition.getItemMeta();
         metaComp.setDisplayName("§6§lCompo des rôles");
 
@@ -135,7 +134,7 @@ public class RolesGUI implements GUIBuilder, Listener {
             // Rafraîchir le GUI
             UHCAPI.getInstance().getGUIManager().open(player, RolesGUI.class);
 
-        } else if (clicked.getType() == Material.BOOK) {
+        } else if (clicked.getType() == Material.BLAZE_POWDER) {
             if (!Objects.equals(event.getInventory().getName(), "§7§lGestion des rôles" ) && event.getRawSlot() == 3*9) return; // Seulement notre GUI
 
             player.sendMessage("§6Composition des rôles activés :");

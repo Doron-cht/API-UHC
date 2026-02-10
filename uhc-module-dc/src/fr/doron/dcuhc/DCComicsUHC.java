@@ -1,8 +1,8 @@
 package fr.doron.dcuhc;
 
-import fr.doron.dcuhc.BatMan.BatManListener;
-import fr.doron.dcuhc.Flash.FlashGUI;
-import fr.doron.dcuhc.Flash.FlashListener;
+import fr.doron.dcuhc.roles.BatMan.BatManListener;
+import fr.doron.dcuhc.roles.Flash.FlashGUI;
+import fr.doron.dcuhc.roles.Flash.FlashListener;
 import fr.doron.dcuhc.roles.DCRoles;
 import fr.doron.dcuhc.roles.commands.DCCommands;
 import fr.doron.uhc.api.GameModeModule;
@@ -87,3 +87,6 @@ public class DCComicsUHC extends JavaPlugin implements GameModeModule {
         return roles;
     }
 }
+//TODO Créer toutes les classes de tout les roles
+// TODO Mettre les description de tout les roles dans le JSON
+//TODO Tester tout les roles
